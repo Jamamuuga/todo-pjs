@@ -4,7 +4,7 @@
   "//3": "updating this file will download and update your packages",
 
 	"name": "practical-javascript-todos",
-	"version": "10.0.0",
+	"version": "11.0.0",
 	"description": "Code for practicaljavascript.net",
 	"main": "server.js",
 	"scripts": {
