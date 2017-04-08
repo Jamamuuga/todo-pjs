@@ -1,9 +1,8 @@
-Welcome to Practical JavaScript!
-============================
+# Todo App from Practical JavaScript.
+____________________________
 
-Todo List App from Practical JavaScript.
-Probably based on TodoMVC.
+This is the simplish Todo App from the Practical JavaScript course at Watch And Code.It is probably based on TodoMVC.
 
-For more details, visit practicaljavascript.net.
+For more details, visit https://practicaljavascript.net.
 
 License: MIT
